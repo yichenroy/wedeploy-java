@@ -1,0 +1,5 @@
+{
+    "dependencies": ["data"],
+    "id": "javaExample",
+    "memory": 2048
+}
